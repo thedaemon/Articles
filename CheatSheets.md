@@ -4,10 +4,15 @@ A list of common hotkeys or commands for various tools that I use.
 ## Grafx2 - Cheatsheet ##
 RMB on lower left to swap between **Animation** and **Layers**
 
+### Settings ###
 - **Del** - set brush to 1 pixel
 - **F10** - toggle gui
+- **Shift+F10** - Settings
 - **F9** - toggle cursor
 - **Enter** - resolution settings
+- **Shift+Enter** - safety resolution
+
+### Paint ###
 - **u** - Undo
 - **U** - Redo
 - **l** - lines
@@ -38,5 +43,8 @@ RMB on lower left to swap between **Animation** and **Layers**
 - **t** = text
 - **,** - shrink paintbrush
 - **.** - enlarge paintbrush
+
+### Colors ###
 - **`** - Pipette
+- **shift+`** - swap FG<->BG
 - **P** - palette menu
