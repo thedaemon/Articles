@@ -8,10 +8,12 @@ The goal of this document is to be a rough history of polygonal box modeling in 
 ## Origins ##
 ### LISP Machines ###
 Early modeling was achieved via Symbolics Lisp Machines and their S-Graphics suite of software.
+
+https://smbx.org/ Symbolics Lisp Machine Museum
 ### Mirai ###
 - IZware
-- Bay Raitt - the father of Edge Loops
-- Martin Krol
+- Bay Raitt - the father of Edge Loops https://www.youtube.com/watch?v=ubgvomRTW80
+- Martin Krol https://www.youtube.com/watch?v=_eAV3M3fQ7I
 - Nendo
 ## Industry Changes ##
 - Final Fantasy Spirits Within - from NURBS to Sub-D
